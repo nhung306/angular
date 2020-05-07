@@ -1,3 +1,15 @@
+## Installation
+
+- You can install it with the following commands:
+  - $ npm install -g @angular/cli
+- Then step 
+  - $ npm install
+- Finally run project
+  - $ ng sever
+
+## Design 
+https://ng.ant.design/components
+
 # Ecommerce
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
